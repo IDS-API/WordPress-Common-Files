@@ -1,8 +1,8 @@
 <?php 
 
-define('IDS_PLUGINS_SCRIPTS_PATH', 'idsplugins_common/scripts/');
-define('IDS_TEMPLATES_PATH', 'idsplugins_common/templates/');
-define('IDS_IMAGES_PATH', 'idsplugins_common/images/');
+define('IDS_PLUGINS_SCRIPTS_PATH', IDS_COMMON_FILES_PATH . '/scripts/');
+define('IDS_TEMPLATES_PATH', IDS_COMMON_FILES_PATH . '/templates/');
+define('IDS_IMAGES_PATH', IDS_COMMON_FILES_PATH . '/images/');
 
 
 /*-------------------------------------  Generic template tags functions -------------------------------------*/
